@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I am a human being who works as a software engineer (reluctantly) and wants to moonlight as a writer (to begin with).
 
-### More Information
+The reason [why](https://ahilsa.github.io/why/) I started the blog.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[Get in touch](mailto:ahilsa@protonmail.com)
