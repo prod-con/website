@@ -26,4 +26,4 @@ Wish I could throw out all advice I have consumed from tweets, blogs, podcasts a
 
 Maybe I can just put all this aside and just focus on not getting fired from my job. But I am somehow not able to make myself work!!
 
-Rant over
+Rant over!
