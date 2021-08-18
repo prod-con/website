@@ -10,4 +10,4 @@ The reason [why](https://ahilsa.github.io/why/) I started the blog.
 
 [Get in touch](mailto:ahilsa@protonmail.com)
 
-Webpage image courtesy https://unsplash.com/@jontyson
+Image courtesy: <https://unsplash.com/@jontyson>
